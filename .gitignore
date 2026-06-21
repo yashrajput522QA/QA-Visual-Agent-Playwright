@@ -31,3 +31,8 @@ Thumbs.db
 *.njsproj
 *.sln
 *.sw?
+
+# Extracted files & Test Results
+pptx_extract/
+test-results/
+playwright-report/
